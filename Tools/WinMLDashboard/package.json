@@ -52,7 +52,7 @@
     "babel-minify": "^0.4.3",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "electron": "^3.0.11",
+    "electron": "^9.2.1",
     "electron-winstaller": "^2.7.0",
     "fs-extra": "^7.0.1",
     "md5": "^2.2.1",
